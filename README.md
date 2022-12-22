@@ -53,7 +53,7 @@ In this project we have planned, designed and implemented the system for Hand ge
 
  To use the gesture recognition logic in sensitive areas of work like hospitals and nuclear power plants where sterility between machines and human is vital.
 
-## INVENTORS
+## Made By:
 
 1)	Uday Sankar Mukherjee
 2)	Atrij Paul
