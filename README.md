@@ -7,9 +7,15 @@ Gesture recognition is an active research field in Human-Computer Interaction te
 OpenCV is a real-time Computer vision and image-processing framework built on C/C++. But we’ll use it on python via the OpenCV-python package. 
 
 The main challenges that need to solve as research issue include:
+
  Illumination condition is the most sensitivity for hand gesture recognition of vision-based system. 
+
  Complex backgrounds, dynamic backgrounds are also main difficult for hand gesture recognition. 
- The different size of the user’s hand is another issue.  The multiple gestures in the same background and different viewpoints. 
+
+ The different size of the user’s hand is another issue.
+
+ The multiple gestures in the same background and different viewpoints.
+
  The several persons contain in the sense other than the real subjects.
 
 ## Prerequisites for this project:
@@ -40,8 +46,11 @@ pip install mediapipe        #for mediapipe
 
 In this paper we have given a comprehensive survey of various hand gesture recognition systems. The principal component of the hand gesture recognition system are includes segmentation and tracking hand from the background and then feature extracted from the segmented hand image using various algorithms and finally, recognized the types of hand gestures by using recognition methods.
 In this project we have planned, designed and implemented the system for Hand gesture recognition system for Sign Language recognition, virtual volume controlling and Finger counting.
+
  This project can be more interactive with the help of tracking real time hand movements and controlling mouse pointer on screen. The shortcoming of requiring a plain background can be overcome with the help of Background Image substraction or Machine Learning Techniques.
+
  To create a website which operates using hand gestures. JavaScript can be dynamically combined with the gesture recognition logic for the same.
+
  To use the gesture recognition logic in sensitive areas of work like hospitals and nuclear power plants where sterility between machines and human is vital.
 
 ## INVENTORS
